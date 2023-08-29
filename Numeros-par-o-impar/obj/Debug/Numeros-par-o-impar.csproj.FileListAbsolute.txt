@@ -1,0 +1,10 @@
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A2-2023-numeros-par-o-impar\Numeros-par-o-impar\bin\Debug\Numeros-par-o-impar.exe.config
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A2-2023-numeros-par-o-impar\Numeros-par-o-impar\bin\Debug\Numeros-par-o-impar.exe
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A2-2023-numeros-par-o-impar\Numeros-par-o-impar\bin\Debug\Numeros-par-o-impar.pdb
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A2-2023-numeros-par-o-impar\Numeros-par-o-impar\obj\Debug\Numeros-par-o-impar.csproj.AssemblyReference.cache
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A2-2023-numeros-par-o-impar\Numeros-par-o-impar\obj\Debug\Numeros_par_o_impar.Form1.resources
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A2-2023-numeros-par-o-impar\Numeros-par-o-impar\obj\Debug\Numeros_par_o_impar.Properties.Resources.resources
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A2-2023-numeros-par-o-impar\Numeros-par-o-impar\obj\Debug\Numeros-par-o-impar.csproj.GenerateResource.cache
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A2-2023-numeros-par-o-impar\Numeros-par-o-impar\obj\Debug\Numeros-par-o-impar.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A2-2023-numeros-par-o-impar\Numeros-par-o-impar\obj\Debug\Numeros-par-o-impar.exe
+C:\Users\rodolfo lovoz\source\repos\Progra-1-A2-2023-numeros-par-o-impar\Numeros-par-o-impar\obj\Debug\Numeros-par-o-impar.pdb
